@@ -1,1 +1,1 @@
-This is the first git repository of chenchen.
+This is the first git repository of Chenchen.
